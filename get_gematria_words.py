@@ -13,7 +13,7 @@ def get_gematria_words(gematria, swear_words = False):
 
     for line in f:
         num = line.split(',')[1]
-        num = num.replace('/n', '')
+        num = num.replace('\n', '')
         if int(num) == gematria:
             g.write(line)
 
