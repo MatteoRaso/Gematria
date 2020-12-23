@@ -5,7 +5,7 @@
 
 from calculate import *
 
-def generate_gematria_dictionary():
+def generate_clean_gematria_dictionary():
 
     f = open("every_clean_word.txt", 'r')
     g = open("every_clean_word_plus_gematria.txt", 'w')
@@ -18,4 +18,4 @@ def generate_gematria_dictionary():
     f.close()
     g.close()
 
-generate_gematria_dictionary()
+generate_clean_gematria_dictionary()
