@@ -15,7 +15,7 @@ Typing in `python gematria.py -h` brings up all the commands.
 
 `python gematria.py -w integer` gets every word with the integer as its gematria. The user may optionally write `python gematria.py -w integer True` to include swear words.
 
-`python gematria.py -s integer` gets every sentence with the integer as its gematria (you have to extract sentences.tar.gz first)
+`python gematria.py -s integer` gets every sentence with the integer as its gematria (you have to extract [sentences.tar.gz](https://mega.nz/file/BTZzwAbS#7X2u3AnQtap_TNCPetIqJ6zlF_k771izdt2v_jU5Lvs) first)
 
 ##Resources on Gematria
 https://www.myjewishlearning.com/article/gematria/
