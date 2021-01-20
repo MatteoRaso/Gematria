@@ -1,9 +1,9 @@
-#Study Gematria from the command line
+# Study Gematria from the command line
 
-##What's a Gematria?
+## What's a Gematria?
 A Gematria is a type of Jewish numerology where letters are converted into numbers and added together, with the final number supposingly revealing some esoteric meaning.
 
-##How do I use this program?
+## How do I use this program?
 
 Typing in `python gematria.py -h` brings up all the commands.
 
@@ -17,12 +17,12 @@ Typing in `python gematria.py -h` brings up all the commands.
 
 `python gematria.py -s integer` gets every sentence with the integer as its gematria (you have to extract [sentences.tar.gz](https://mega.nz/file/BTZzwAbS#7X2u3AnQtap_TNCPetIqJ6zlF_k771izdt2v_jU5Lvs) first)
 
-##Resources on Gematria
+## Resources on Gematria
 https://www.myjewishlearning.com/article/gematria/
 https://www.biblestudy.org/bibleref/meaning-of-numbers-in-bible/numerology.html
 https://www.spiritofthescripture.com/id3191-the-complete-idiots-guide-to-gematria-6.html
 
-##Conversion Chart
+## Conversion Chart
 | A | | 1 |
 | B | | 2 |
 | C | | 3 |
