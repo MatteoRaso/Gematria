@@ -23,6 +23,8 @@ https://www.biblestudy.org/bibleref/meaning-of-numbers-in-bible/numerology.html
 https://www.spiritofthescripture.com/id3191-the-complete-idiots-guide-to-gematria-6.html
 
 ## Conversion Chart
+| Letter | | Gematria |
+| --- | | --- |
 | A | | 1 |
 | B | | 2 |
 | C | | 3 |
